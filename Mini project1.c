@@ -4,7 +4,7 @@ void main()
     printf("********Anusha shoping mall*********");
     int sel;
     do{
-        printf("1.skin-care\n 2.mobile\n3.clothes\n4.jewellary\n");
+        printf("1.skin-care\n 2.mobile\n3.clothes\n4.jewellery\n");
         printf("select the above product to buy \n");
         int opt;
         scanf("%d",&opt);
@@ -90,7 +90,7 @@ void main()
             }break;
             case 4:
             {
-                printf("jewellary\n");
+                printf("jewellery\n");
                  printf("1.chains\n 2.rings\n3.bangles&bracelets\n4.mangtika\n5.anklets\n");
                  printf("select the above product to buy\n");
                  int opt;
